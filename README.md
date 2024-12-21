@@ -33,26 +33,6 @@ A robust Node.js-based library management system implementing various data struc
 - Node.js (v14.0.0 or higher)
 - npm (v6.0.0 or higher)
 
-## 🔧 Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/college-library-system.git
-cd college-library-system
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Start the development server
-```bash
-npm run dev
-```
-
-The server will start on port 3000 (http://localhost:3000)
-
 ## 📚 API Documentation
 
 ### Books
